@@ -1,0 +1,31 @@
+_repo: Book-of-brief-narratives_68364
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Pemmon, Frank
+    gutenberg_agent_id: '54582'
+    url: http://www.gutenberg.org/2009/agents/54582
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68364'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:554933
+pgterms:marc905: 20220218131428pemmon
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :A. B. Courtney,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Multum in parvo library, vol. 1, no. 12, December, 1894
+subjects:
+- !lcsh 'Detective and mystery stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A chance meeting -- How was she killed? -- It was not murder -- A
+  freight car adventure -- Two ghosts -- He addressed the jury.
+title: Book of brief narratives
+url: http://www.gutenberg.org/ebooks/68364
